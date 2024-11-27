@@ -1,0 +1,40 @@
+item {
+    id: 1
+    name: 'callME'
+}
+item {
+    id: 2
+    name: 'fist' 
+}
+item {
+    id: 3
+    name: 'highFive'
+}
+item {
+    id: 4
+    name: 'liveLong'
+}
+item {
+    id: 5
+    name: 'okSign'
+}
+item {
+    id: 6
+    name: 'peace'
+}
+item {
+    id: 7
+    name: 'pointing'
+}
+item {
+    id: 8
+    name: 'rockOn'
+}
+item {
+    id: 9
+    name: 'thumbsDown'
+}
+item {
+    id: 10
+    name: 'thumbsUp'
+}
